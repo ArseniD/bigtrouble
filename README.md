@@ -5,5 +5,5 @@ Arseni Dudko
 Fixed bigtrouble VM
 
 # Installation
-Copy and replace all files to a folder with bigtrouble.box
+Copy and replace all files to the folder with bigtrouble.box
 Run vagrant up
