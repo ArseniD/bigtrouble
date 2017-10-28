@@ -1,2 +1,2 @@
-CATALINA_HOME=/opt/apache/tomcat/7.0.82
+CATALINA_HOME=/opt/apache/tomcat/current
 export JAVA_HOME=/opt/oracle/java/x64/jdk1.7.0_80
